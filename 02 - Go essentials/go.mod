@@ -1,3 +1,3 @@
-module github.com/franciscoklaus/learning_golang
+module github.com/franciscoklaus/investment_calculator
 
 go 1.21.1
